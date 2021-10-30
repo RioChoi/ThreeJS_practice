@@ -74,8 +74,3 @@ typings/
 
 # FuseBox cache
 .fusebox/
-
-#custom
-package.json
-package-lock.json
-
